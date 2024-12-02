@@ -35,7 +35,7 @@ const About = () => {
         </p>
 
         <div className='my-8'>
-          <a href='/' className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-r from-yellow-100 to-pink-500 text-black hover:font-bold transition-all duration-300'>
+          <a href='https://drive.google.com/drive/folders/1vb-pDfEPuqMZDhRGtGp--7qCQRJA11ZG' className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-r from-yellow-100 to-pink-500 text-black hover:font-bold transition-all duration-300'>
             Resume
           </a>
           <a href='#contact' className='px-6 py-3 w-full rounded-xl border border-gray-400 hover:bg-gradient-to-r from-yellow-100 to-pink-500 text-white hover:border-none hover:text-black'>
